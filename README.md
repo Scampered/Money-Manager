@@ -7,23 +7,19 @@ Welcome to Money Manager!
 
 Instructions on how to use:
 
-:For first step type in your name>
+~For first step type in your name>
 	| "What's your name?: "
 
-:Second step, write the abbreviation for your country currency>
+~Second step, write the abbreviation for your country currency>
 	| Example: (United Kingdom: GBP or £) (Europe: EUR or €) (USA Dollar: USD or $)
 
-:Third Step [Important Step]>
+~Third Step [Important Step]>
 	| Writing the amount of money you have and money you want to save up for
 
-:Confirmation step- Type the following letters (D-M-Y)>
-	| Type in (D)ays-(M)onths-(Y)ears
-		| You only need to type the first letter.
-
-:Calculation step>
+~Calculation step>
 	| Now, you only need to fill out given information and it calculate for you!
 
-:Thank you for using $Manager
+~Thank you for using $Manager
 
 	
 
