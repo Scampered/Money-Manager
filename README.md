@@ -11,7 +11,7 @@ Instructions on how to use:
 	| "What's your name?: "
 
 ~Second step, write the abbreviation for your country currency>
-	| Example: (United Kingdom: GBP or £) (Europe: EUR or €) (USA Dollar: USD or $)
+	| Example: (United Kingdom: GBP or £)(Europe: EUR or €)(USA Dollar: USD or $)
 
 ~Third Step [Important Step]>
 	| Writing the amount of money you have and money you want to save up for
